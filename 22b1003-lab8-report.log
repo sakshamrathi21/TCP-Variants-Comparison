@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.9.13)  2 NOV 2024 10:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.9.13)  2 NOV 2024 13:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -713,32 +713,111 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `zplm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+<throughput_vs_delay_loss_0.1.png, id=31, 462.528pt x 346.896pt>
+File: throughput_vs_delay_loss_0.1.png Graphic file (type png)
+<use throughput_vs_delay_loss_0.1.png>
+Package pdftex.def Info: throughput_vs_delay_loss_0.1.png  used on input line 74.
+(pdftex.def)             Requested size: 400.99184pt x 300.7596pt.
+<throughput_vs_delay_loss_0.5.png, id=33, 462.528pt x 346.896pt>
+File: throughput_vs_delay_loss_0.5.png Graphic file (type png)
+<use throughput_vs_delay_loss_0.5.png>
+Package pdftex.def Info: throughput_vs_delay_loss_0.5.png  used on input line 80.
+(pdftex.def)             Requested size: 400.99184pt x 300.7596pt.
+<throughput_vs_delay_loss_1.png, id=34, 462.528pt x 346.896pt>
+File: throughput_vs_delay_loss_1.png Graphic file (type png)
+<use throughput_vs_delay_loss_1.png>
+Package pdftex.def Info: throughput_vs_delay_loss_1.png  used on input line 86.
+(pdftex.def)             Requested size: 400.99184pt x 300.7596pt.
+<throughput_vs_loss_delay_10ms.png, id=35, 462.528pt x 346.896pt>
+File: throughput_vs_loss_delay_10ms.png Graphic file (type png)
+<use throughput_vs_loss_delay_10ms.png>
+Package pdftex.def Info: throughput_vs_loss_delay_10ms.png  used on input line 94.
+(pdftex.def)             Requested size: 400.99184pt x 300.7596pt.
+<throughput_vs_loss_delay_50ms.png, id=36, 462.528pt x 346.896pt>
+File: throughput_vs_loss_delay_50ms.png Graphic file (type png)
+<use throughput_vs_loss_delay_50ms.png>
+Package pdftex.def Info: throughput_vs_loss_delay_50ms.png  used on input line 100.
+(pdftex.def)             Requested size: 400.99184pt x 300.7596pt.
+<throughput_vs_loss_delay_100ms.png, id=37, 462.528pt x 346.896pt>
+File: throughput_vs_loss_delay_100ms.png Graphic file (type png)
+<use throughput_vs_loss_delay_100ms.png>
+Package pdftex.def Info: throughput_vs_loss_delay_100ms.png  used on input line 106.
+(pdftex.def)             Requested size: 400.99184pt x 300.7596pt.
+ [1
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
+{/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}{/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/enc/dvips/base/8r.enc} <./throughput_vs_delay_loss_0.1.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[2 <./throughput_vs_delay_loss_0.5.png> <./throughput_vs_delay_loss_1.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[3 <./throughput_vs_loss_delay_10ms.png> <./throughput_vs_loss_delay_50ms.png>]
+LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 113.
+ (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/psnfss/ts1ppl.fd
+File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[4 <./throughput_vs_loss_delay_100ms.png>]
+<e1.png, id=59, 451.6875pt x 311.66437pt>
+File: e1.png Graphic file (type png)
+<use e1.png>
+Package pdftex.def Info: e1.png  used on input line 124.
+(pdftex.def)             Requested size: 400.99184pt x 276.70036pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--126
 
  []
 
-[1
+<e2.png, id=60, 451.6875pt x 311.66437pt>
+File: e2.png Graphic file (type png)
+<use e2.png>
+Package pdftex.def Info: e2.png  used on input line 130.
+(pdftex.def)             Requested size: 400.99184pt x 276.70036pt.
+Package mdframed Info: Not enough space on this page on input line 133.
 
-{/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}{/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/enc/dvips/base/8r.enc}] (./22b1003-lab8-report.aux)
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[5
+
+ <./e1.png (PNG copy)> <./e2.png (PNG copy)>] (./22b1003-lab8-report.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 20718 strings out of 474116
- 425517 string characters out of 5732613
- 1930187 words of memory out of 5000000
- 42648 multiletter control sequences out of 15000+600000
- 573186 words of font info for 100 fonts, out of 8000000 for 9000
+ 20834 strings out of 474116
+ 428196 string characters out of 5732613
+ 1933187 words of memory out of 5000000
+ 42735 multiletter control sequences out of 15000+600000
+ 575130 words of font info for 117 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,7n,93p,1055b,878s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,11n,93p,1055b,878s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on 22b1003-lab8-report.pdf (1 page, 34685 bytes).
+Output written on 22b1003-lab8-report.pdf (5 pages, 353089 bytes).
 PDF statistics:
- 48 PDF objects out of 1000 (max. 8388607)
- 23 compressed objects within 1 object stream
+ 75 PDF objects out of 1000 (max. 8388607)
+ 32 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 32371 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 38555 words of extra memory for PDF output out of 42996 (max. 10000000)
 
