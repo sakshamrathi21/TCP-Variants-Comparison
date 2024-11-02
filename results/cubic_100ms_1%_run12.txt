@@ -1,0 +1,7 @@
+------------------------------------------------------------
+Client connecting to 127.0.0.1, TCP port 5001
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  1] local 127.0.0.1 port 36590 connected with 127.0.0.1 port 5001 (icwnd/mss/irtt=14/1448/200151)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-145.8379 sec  20.0 MBytes  1.15 Mbits/sec
