@@ -112,7 +112,7 @@ Indian Institute of Technology Bombay \\
     \begin{itemize}
         \item In all of the plots (and for all of the datapoints), the throughput from cubic is higher than that from reno. This is because cubic is more aggressive in increasing the congestion window size. Therefore it is able to send more packets in the same time (and a higher throughput is observed).
         \item The throughput decreases as the delay increases. This is because the packets take more time to reach the destination and the sender has to wait for the ACKs. This increases the RTT and hence the throughput decreases. This again confirms the theoretical result that throughput is inversely proportional to the RTT.
-        \item The loss percentage field represents the rate at which packets are dropped. As the loss percentage increases, the throughput decreases. This is because the sender has to retransmit the packets that are lost. This increases the RTT and hence the throughput decreases. When the packet loss rate is 1\%, the throughput is almost zero. This is because the sender has to retransmit almost all the packets and the throughput is very low.
+        \item The loss percentage field represents the rate at which packets are dropped. As the loss percentage increases, the throughput decreases. This is because the sender has to retransmit the packets that are lost. This increases the RTT and hence the throughput decreases. When the packet loss rate is 1\%, the throughput is really low because the sender has to retransmit almost all the packets.
     \end{itemize}
 \end{solution}
 
