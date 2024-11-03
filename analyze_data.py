@@ -7,7 +7,9 @@ def load_throughput_data(directory, tcp_variant):
     data = {}
     for file in os.listdir(directory):
         if file.endswith(".txt") and file.startswith(tcp_variant):
-            match = re.match(rf'{tcp_variant}_(\d+)ms_(\d+\.\d+)%_run\d+\.txt', file)
+            match = re.match(rf'{tcp_variant}_(\d+)ms_(\d+\.\d)%_run\d+\.txt', file)
+            if not match:
+                match = re.match(rf'{tcp_variant}_(\d+)ms_(\d+)%_run\d+\.txt', file)
             if match:
                 delay = int(match.group(1))
                 loss = float(match.group(2))
@@ -26,7 +28,6 @@ def plot_with_error_bars(data, x_values, label, plot_type):
     means = [np.mean(data[key]) if key in data else 0 for key in x_values]
     stds = [np.std(data[key]) if key in data else 0 for key in x_values]
     y_errors = 1.645 * (np.array(stds) / np.sqrt([len(data[key]) if key in data else 1 for key in x_values]))
-    
     x_labels = [str(x[0] if plot_type == 'delay' else x[1]) for x in x_values]
     plt.errorbar(x_labels, means, yerr=y_errors, label=label, marker='o')
 
