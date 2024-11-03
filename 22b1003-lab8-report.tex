@@ -143,9 +143,16 @@ Indian Institute of Technology Bombay \\
         \includegraphics[width=0.8\textwidth]{cubic-e2.png}
         \caption{Cubic Window Scaling Graph for Delay=100ms and Loss=1\%}
     \end{figure}
+
+
+    \begin{itemize}
+        \item The plots in green are for window sizes, whereas the plots in blue are the unacked outstanding bytes (bytes in flight). 
+        \item The annotations are shown in pink. 
+        \item Locations where we see an exponential (sudden) increase in the window size correspond to slow start (present at the start or after a timeout).
+        \item Similarly, locations where we see a sudden drop in the window size correspond to packet losses.
+        \item Locations where we see a linear increase in the window size correspond to congestion avoidance.
+        \item The window sizes are in general higher for cubic than for reno (specially after the initial section). This is because cubic is more aggressive in increasing the congestion window size.
+    \end{itemize}
 \end{solution}
-
-
-
 
 \end{document}
