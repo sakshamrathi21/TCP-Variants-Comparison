@@ -1,2 +1,6 @@
 e1.pcapng filter=lfs diff=lfs merge=lfs -text
 e2.pcapng filter=lfs diff=lfs merge=lfs -text
+cubic-e2.pcapng filter=lfs diff=lfs merge=lfs -text
+reno-e1.pcapng filter=lfs diff=lfs merge=lfs -text
+reno-e2.pcapng filter=lfs diff=lfs merge=lfs -text
+cubic-e1.pcapng filter=lfs diff=lfs merge=lfs -text
