@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.9.13)  3 NOV 2024 12:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.9.13)  5 NOV 2024 12:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -774,26 +774,26 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [4 <./throughput_vs_loss_delay_100ms.png>]
-<reno-e1.png, id=59, 1808.7575pt x 1258.7025pt>
+<reno-e1.png, id=59, 1324.95pt x 801.99625pt>
 File: reno-e1.png Graphic file (type png)
 <use reno-e1.png>
 Package pdftex.def Info: reno-e1.png  used on input line 125.
-(pdftex.def)             Requested size: 400.99184pt x 279.0473pt.
-<reno-e2.png, id=60, 1788.6825pt x 1245.65375pt>
+(pdftex.def)             Requested size: 400.99184pt x 242.7178pt.
+<reno-e2.png, id=60, 1317.92375pt x 797.98125pt>
 File: reno-e2.png Graphic file (type png)
 <use reno-e2.png>
 Package pdftex.def Info: reno-e2.png  used on input line 131.
-(pdftex.def)             Requested size: 400.99184pt x 279.25262pt.
-<cubic-e1.png, id=61, 1748.5325pt x 1213.53375pt>
+(pdftex.def)             Requested size: 400.99184pt x 242.79338pt.
+<cubic-e1.png, id=61, 1322.9425pt x 798.985pt>
 File: cubic-e1.png Graphic file (type png)
 <use cubic-e1.png>
 Package pdftex.def Info: cubic-e1.png  used on input line 137.
-(pdftex.def)             Requested size: 400.99184pt x 278.29214pt.
-<cubic-e2.png, id=62, 1666.225pt x 1165.35374pt>
+(pdftex.def)             Requested size: 400.99184pt x 242.17223pt.
+<cubic-e2.png, id=62, 1324.95pt x 800.9925pt>
 File: cubic-e2.png Graphic file (type png)
 <use cubic-e2.png>
 Package pdftex.def Info: cubic-e2.png  used on input line 143.
-(pdftex.def)             Requested size: 400.99184pt x 280.43745pt.
+(pdftex.def)             Requested size: 400.99184pt x 242.41403pt.
 Package mdframed Info: Not enough space on this page on input line 156.
 
 
@@ -836,9 +836,9 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  84i,11n,93p,1055b,878s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on 22b1003-lab8-report.pdf (7 pages, 3003829 bytes).
+Output written on 22b1003-lab8-report.pdf (7 pages, 3307667 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
+ 89 PDF objects out of 1000 (max. 8388607)
  38 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  38565 words of extra memory for PDF output out of 42996 (max. 10000000)

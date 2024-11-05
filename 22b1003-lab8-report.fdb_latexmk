@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1730617139.26601 "/Users/sakshamrathi/Desktop/CS378/Lab8/22b1003-lab8-report.tex" "22b1003-lab8-report.pdf" "22b1003-lab8-report" 1730617140.09925 0
-  "/Users/sakshamrathi/Desktop/CS378/Lab8/22b1003-lab8-report.tex" 1730617139.07041 5907 1822585d2b364511d0d1a37d5c0d58f9 ""
+["pdflatex"] 1730790106.58662 "/Users/sakshamrathi/Desktop/CS378/Lab8/22b1003-lab8-report.tex" "22b1003-lab8-report.pdf" "22b1003-lab8-report" 1730790109.3729 0
+  "/Users/sakshamrathi/Desktop/CS378/Lab8/22b1003-lab8-report.tex" 1730790106.37037 5907 1822585d2b364511d0d1a37d5c0d58f9 ""
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1710106625 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/map/fontname/texfonts.map" 1710106625 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1710106625 5472554 f7861620179a71a79d4bd86251f559d0 ""
@@ -157,12 +157,12 @@
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/zref/zref-base.sty" 1710106625 20785 f7d1133a287929598a897c93f8f4c44b ""
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/web2c/texmf.cnf" 1710106625 41652 e14926ab86fde7902cad99d9eeaa5ca5 ""
   "/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1710106625 8221848 7ed3f6bcd265dba7ee923188c9bb02cd ""
-  "22b1003-lab8-report.aux" 1730617140.03593 1520 4fc2ce689bbd39c20b412c0235ac836c "pdflatex"
-  "22b1003-lab8-report.tex" 1730617139.07041 5907 1822585d2b364511d0d1a37d5c0d58f9 ""
-  "cubic-e1.png" 1730616408 1100528 ed9b1a245e3ec5996abc2e4d8f57b8b9 ""
-  "cubic-e2.png" 1730616492 477835 eac078e59471ec5b8cb631d07ea362a6 ""
-  "reno-e1.png" 1730616318 780183 5b9c3cb15a80ed6756236c8c39cc64ad ""
-  "reno-e2.png" 1730616372 457630 930923df9029ea774b564ca707291b7b ""
+  "22b1003-lab8-report.aux" 1730790109.30604 1520 4fc2ce689bbd39c20b412c0235ac836c "pdflatex"
+  "22b1003-lab8-report.tex" 1730790106.37037 5907 1822585d2b364511d0d1a37d5c0d58f9 ""
+  "cubic-e1.png" 1730790041.14667 1098475 61d2f762290a3eb4b89d1991c20d6769 ""
+  "cubic-e2.png" 1730790026.19812 1060524 41a5385d05aafea161739520d2f4887c ""
+  "reno-e1.png" 1730790009.51206 1188779 67a47e21f8f3cacf1e887a0fe1bfb03c ""
+  "reno-e2.png" 1730790057.59335 1011120 1bb8b3cbe298f9d5e5695d2ed657a859 ""
   "throughput_vs_delay_loss_0.1.png" 1730615364.26059 32596 376fca4cd161e2b4d066b4468082ece0 ""
   "throughput_vs_delay_loss_0.5.png" 1730615364.30764 31568 2ab70037369e162740947f88f2a34872 ""
   "throughput_vs_delay_loss_1.png" 1730615364.35035 30073 99fac18bca5bf38bb6b3593ba38a61e9 ""
