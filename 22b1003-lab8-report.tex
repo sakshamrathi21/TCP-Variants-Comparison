@@ -120,37 +120,81 @@ Indian Institute of Technology Bombay \\
 
 \begin{solution}{Wireshark Plots}
     Here are the window scaling graphs from Wireshark:
+
+    \subsection*{Reno}
+    \subsubsection*{Delay=10ms, Loss=0.1\%}
+
     \begin{figure}[H]
         \centering
-        \includegraphics[width=0.8\textwidth]{reno-e1.png}
-        \caption{Reno Window Scaling Graph for Delay=10ms and Loss=0.1\%}
+        \includegraphics[width=0.8\textwidth]{reno-e11.png}
     \end{figure}
 
     \begin{figure}[H]
         \centering
-        \includegraphics[width=0.8\textwidth]{reno-e2.png}
-        \caption{Reno Window Scaling Graph for Delay=100ms and Loss=1\%}
+        \includegraphics[width=0.8\textwidth]{reno-e12.png}
+    \end{figure}
+
+    As we can see from the plots, slow start is from 1MSS, and exponentially increases. This is shown in the first image. Places where we see steep decrease in the window size correspond to packet losses. Places where we start from half the max congestion window size are congestion avoidance phases.
+    Here is the complete graph:
+
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.8\textwidth]{reno-e13.png}
+    \end{figure}
+
+    \subsubsection*{Delay=100ms, Loss=1\%}
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.8\textwidth]{reno-e21.png}
     \end{figure}
 
     \begin{figure}[H]
         \centering
-        \includegraphics[width=0.8\textwidth]{cubic-e1.png}
-        \caption{Cubic Window Scaling Graph for Delay=10ms and Loss=0.1\%}
+        \includegraphics[width=0.8\textwidth]{reno-e22.png}
     \end{figure}
 
     \begin{figure}[H]
         \centering
-        \includegraphics[width=0.8\textwidth]{cubic-e2.png}
-        \caption{Cubic Window Scaling Graph for Delay=100ms and Loss=1\%}
+        \includegraphics[width=0.8\textwidth]{reno-e23.png}
     \end{figure}
 
+    \subsection*{Cubic}
+    \subsubsection*{Delay=10ms, Loss=0.1\%}
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.8\textwidth]{cubic-e11.png}
+    \end{figure}
 
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.8\textwidth]{cubic-e12.png}
+    \end{figure}
+
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.8\textwidth]{cubic-e13.png}
+    \end{figure}
+
+    \subsubsection*{Delay=100ms, Loss=1\%}
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.8\textwidth]{cubic-e21.png}
+    \end{figure}
+
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.8\textwidth]{cubic-e22.png}
+    \end{figure}
+
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.8\textwidth]{cubic-e23.png}
+    \end{figure}
+
+    
     \begin{itemize}
         \item The plots in green are for window sizes, whereas the plots in blue are the unacked outstanding bytes (bytes in flight). 
-        \item The annotations are shown in pink. 
-        \item Locations where we see an exponential (sudden) increase in the window size correspond to slow start (present at the start or after a timeout).
-        \item Similarly, locations where we see a sudden drop in the window size correspond to packet losses.
-        \item Locations where we see a linear increase in the window size correspond to congestion avoidance.
+        \item The annotations are shown in red and blue. 
         \item The window sizes are in general higher for cubic than for reno (specially after the initial section). This is because cubic is more aggressive in increasing the congestion window size.
     \end{itemize}
 \end{solution}

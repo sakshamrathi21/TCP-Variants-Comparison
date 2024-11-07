@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.9.13)  5 NOV 2024 12:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.9.13)  7 NOV 2024 18:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -774,27 +774,71 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [4 <./throughput_vs_loss_delay_100ms.png>]
-<reno-e1.png, id=59, 1324.95pt x 801.99625pt>
-File: reno-e1.png Graphic file (type png)
-<use reno-e1.png>
-Package pdftex.def Info: reno-e1.png  used on input line 125.
-(pdftex.def)             Requested size: 400.99184pt x 242.7178pt.
-<reno-e2.png, id=60, 1317.92375pt x 797.98125pt>
-File: reno-e2.png Graphic file (type png)
-<use reno-e2.png>
-Package pdftex.def Info: reno-e2.png  used on input line 131.
-(pdftex.def)             Requested size: 400.99184pt x 242.79338pt.
-<cubic-e1.png, id=61, 1322.9425pt x 798.985pt>
-File: cubic-e1.png Graphic file (type png)
-<use cubic-e1.png>
-Package pdftex.def Info: cubic-e1.png  used on input line 137.
-(pdftex.def)             Requested size: 400.99184pt x 242.17223pt.
-<cubic-e2.png, id=62, 1324.95pt x 800.9925pt>
-File: cubic-e2.png Graphic file (type png)
-<use cubic-e2.png>
-Package pdftex.def Info: cubic-e2.png  used on input line 143.
-(pdftex.def)             Requested size: 400.99184pt x 242.41403pt.
-Package mdframed Info: Not enough space on this page on input line 156.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmss' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+<reno-e11.png, id=59, 1734.48pt x 1121.18875pt>
+File: reno-e11.png Graphic file (type png)
+<use reno-e11.png>
+Package pdftex.def Info: reno-e11.png  used on input line 129.
+(pdftex.def)             Requested size: 400.99184pt x 259.20241pt.
+<reno-e12.png, id=60, 1734.48pt x 1121.18875pt>
+File: reno-e12.png Graphic file (type png)
+<use reno-e12.png>
+Package pdftex.def Info: reno-e12.png  used on input line 134.
+(pdftex.def)             Requested size: 400.99184pt x 259.20241pt.
+<reno-e13.png, id=61, 1270.7475pt x 662.475pt>
+File: reno-e13.png Graphic file (type png)
+<use reno-e13.png>
+Package pdftex.def Info: reno-e13.png  used on input line 142.
+(pdftex.def)             Requested size: 400.99184pt x 209.04463pt.
+<reno-e21.png, id=62, 1734.48pt x 1121.18875pt>
+File: reno-e21.png Graphic file (type png)
+<use reno-e21.png>
+Package pdftex.def Info: reno-e21.png  used on input line 148.
+(pdftex.def)             Requested size: 400.99184pt x 259.20241pt.
+<reno-e22.png, id=63, 1734.48pt x 1121.18875pt>
+File: reno-e22.png Graphic file (type png)
+<use reno-e22.png>
+Package pdftex.def Info: reno-e22.png  used on input line 153.
+(pdftex.def)             Requested size: 400.99184pt x 259.20241pt.
+<reno-e23.png, id=64, 1270.7475pt x 662.475pt>
+File: reno-e23.png Graphic file (type png)
+<use reno-e23.png>
+Package pdftex.def Info: reno-e23.png  used on input line 158.
+(pdftex.def)             Requested size: 400.99184pt x 209.04463pt.
+<cubic-e11.png, id=65, 1734.48pt x 1121.18875pt>
+File: cubic-e11.png Graphic file (type png)
+<use cubic-e11.png>
+Package pdftex.def Info: cubic-e11.png  used on input line 165.
+(pdftex.def)             Requested size: 400.99184pt x 259.20241pt.
+<cubic-e12.png, id=66, 1734.48pt x 1121.18875pt>
+File: cubic-e12.png Graphic file (type png)
+<use cubic-e12.png>
+Package pdftex.def Info: cubic-e12.png  used on input line 170.
+(pdftex.def)             Requested size: 400.99184pt x 259.20241pt.
+<cubic-e13.png, id=67, 1270.7475pt x 662.475pt>
+File: cubic-e13.png Graphic file (type png)
+<use cubic-e13.png>
+Package pdftex.def Info: cubic-e13.png  used on input line 175.
+(pdftex.def)             Requested size: 400.99184pt x 209.04463pt.
+<cubic-e21.png, id=68, 1734.48pt x 1121.18875pt>
+File: cubic-e21.png Graphic file (type png)
+<use cubic-e21.png>
+Package pdftex.def Info: cubic-e21.png  used on input line 181.
+(pdftex.def)             Requested size: 400.99184pt x 259.20241pt.
+<cubic-e22.png, id=69, 1734.48pt x 1121.18875pt>
+File: cubic-e22.png Graphic file (type png)
+<use cubic-e22.png>
+Package pdftex.def Info: cubic-e22.png  used on input line 186.
+(pdftex.def)             Requested size: 400.99184pt x 259.20241pt.
+<cubic-e23.png, id=70, 1270.7475pt x 662.475pt>
+File: cubic-e23.png Graphic file (type png)
+<use cubic-e23.png>
+Package pdftex.def Info: cubic-e23.png  used on input line 191.
+(pdftex.def)             Requested size: 400.99184pt x 209.04463pt.
+Package mdframed Info: Not enough space on this page on input line 200.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -805,7 +849,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [5
 
- <./reno-e1.png> <./reno-e2.png>]
+ <./reno-e11.png> <./reno-e12.png>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -813,7 +857,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[6 <./cubic-e1.png> <./cubic-e2.png>]
+[6 <./reno-e13.png (PNG copy)> <./reno-e21.png>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -821,25 +865,49 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[7] (./22b1003-lab8-report.aux)
+[7 <./reno-e22.png> <./reno-e23.png (PNG copy)>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[8 <./cubic-e11.png> <./cubic-e12.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[9 <./cubic-e13.png (PNG copy)> <./cubic-e21.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[10 <./cubic-e22.png> <./cubic-e23.png (PNG copy)>] (./22b1003-lab8-report.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 20854 strings out of 474116
- 428581 string characters out of 5732613
- 1934187 words of memory out of 5000000
- 42749 multiletter control sequences out of 15000+600000
- 575428 words of font info for 121 fonts, out of 8000000 for 9000
+ 20923 strings out of 474116
+ 429871 string characters out of 5732613
+ 1937187 words of memory out of 5000000
+ 42813 multiletter control sequences out of 15000+600000
+ 575869 words of font info for 124 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,11n,93p,1055b,878s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on 22b1003-lab8-report.pdf (7 pages, 3307667 bytes).
+Output written on 22b1003-lab8-report.pdf (10 pages, 2669051 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
- 38 compressed objects within 1 object stream
+ 110 PDF objects out of 1000 (max. 8388607)
+ 44 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 38565 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 40653 words of extra memory for PDF output out of 42996 (max. 10000000)
 
